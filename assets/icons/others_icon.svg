@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="12" viewBox="0 0 10 12">
+  <g id="others_icon" transform="translate(-22.437 -391)">
+    <line id="Line_61" data-name="Line 61" x2="3" transform="translate(25.5 395.5)" fill="none" stroke="#8e8e93" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_62" data-name="Line 62" x2="3.573" transform="translate(25.5 397.5)" fill="none" stroke="#8e8e93" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_63" data-name="Line 63" x2="3.573" transform="translate(25.5 399.5)" fill="none" stroke="#8e8e93" stroke-linecap="round" stroke-width="1"/>
+    <g id="others_icon-2" data-name="others_icon" transform="translate(22.437 391)" fill="none" stroke="#8e8e93" stroke-width="1">
+      <rect width="10" height="12" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="9" height="11" rx="1.5" fill="none"/>
+    </g>
+  </g>
+</svg>
