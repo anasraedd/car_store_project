@@ -12,8 +12,8 @@ import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class CarInfoPage extends GetView<CarGetxController> {
-  const CarInfoPage({super.key});
+class CarInfoScreen extends GetView<CarGetxController> {
+  const CarInfoScreen({super.key});
 
   @override
   Widget build(BuildContext context) {

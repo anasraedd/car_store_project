@@ -1,5 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:eccomerce_app/app/screens/car_info_page.dart';
+import 'package:eccomerce_app/app/screens/car_info_screen.dart';
 import 'package:eccomerce_app/app/tabs/faq_tab.dart';
 import 'package:eccomerce_app/app/tabs/price_tab.dart';
 import 'package:eccomerce_app/app/tabs/review_tab.dart';
@@ -135,7 +135,7 @@ bottom: 0,
                         children: [
                           GestureDetector(
                             onTap: (){
-                              Get.to(CarInfoPage());
+                              Get.to(CarInfoScreen());
                             },
                             child: SizedBox(
                               height: 32.h,
