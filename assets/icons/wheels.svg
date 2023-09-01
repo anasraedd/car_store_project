@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Wheels" transform="translate(-161 -321)">
+    <g id="Ellipse_82" data-name="Ellipse 82" transform="translate(161 321)" fill="none" stroke="#443df6" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
+    </g>
+    <g id="Ellipse_83" data-name="Ellipse 83" transform="translate(164 324)" fill="none" stroke="#443df6" stroke-width="1">
+      <circle cx="7" cy="7" r="7" stroke="none"/>
+      <circle cx="7" cy="7" r="6.5" fill="none"/>
+    </g>
+    <g id="Ellipse_84" data-name="Ellipse 84" transform="translate(168 328)" fill="none" stroke="#443df6" stroke-width="1">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.5" fill="none"/>
+    </g>
+    <path id="Union_1" data-name="Union 1" d="M-10596.488,23.486v0Zm1.836-1.062,3.675,2.121Zm-3.674,0-3.675,2.121Zm7.349-4.244-3.675,2.123Zm-11.023,0,3.675,2.123Zm5.513-3.18v0Z" transform="translate(10767.488 309.636)" fill="none" stroke="#443df6" stroke-width="1"/>
+  </g>
+</svg>
