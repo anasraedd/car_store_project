@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:flutter_svg/svg.dart';
+import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class ProfileScreen extends StatelessWidget {
@@ -192,10 +193,19 @@ class ProfileScreen extends StatelessWidget {
                         Row(
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
-                            CommomFuntions(title: 'My order', nameIcon: 'my_order'),
+                            GestureDetector(
+                                onTap: (){
+                                  Get.toNamed('/my_order_screen');
+                                },
+                                child: CommomFuntions(title: 'My order', nameIcon: 'my_order')),
                             CommomFuntions(title: 'Maintain', nameIcon: 'maintain'),
-                            CommomFuntions(
-                                title: 'Auto parts', nameIcon: 'auto_parts'),
+                            GestureDetector(
+                              onTap: (){
+                                Get.toNamed('/auto_part_screen');
+                              },
+                              child: CommomFuntions(
+                                  title: 'Auto parts', nameIcon: 'auto_parts'),
+                            ),
                             CommomFuntions(
                                 title: 'Driving skills', nameIcon: 'driving_skills')
                           ],

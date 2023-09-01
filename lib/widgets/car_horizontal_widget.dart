@@ -90,7 +90,7 @@ CarHorizontalWidget({required this.backImageColor, required this.visableVs});
                         color: primaryColorDisable
                     )
                 ),
-                SizedBox(height: 13.h),
+                SizedBox(height: 5.h),
                 Text(
                     "\$62,000.00-\$74,000.00",
                     style:  GoogleFonts.roboto(
